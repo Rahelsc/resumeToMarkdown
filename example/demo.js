@@ -7,5 +7,6 @@ var resumeObject = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'resume.js
 
 resumeToMarkdown(resumeObject, function (markdown, errs) {
 	console.log(marked(markdown),errs);
+	fs.writeFileSync('blue.md', markdown, 'utf8');
 	fs.writeFileSync('blue.html', marked(markdown), 'utf8');
 });
