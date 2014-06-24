@@ -13,6 +13,12 @@
   {{/highlights}}
 {{/work}}
 
+{{#education}}
+* ### {{name}}
+  {{startDate}} - {{endDate}}
+  {{area}}
+{{/education}}
+
 ## References
 {{#references}}
 > {{reference}} - **{{name}}**
