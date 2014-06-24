@@ -13,6 +13,8 @@
   {{/highlights}}
 {{/work}}
 
+## Education
+
 {{#education}}
 * ### {{name}}
   {{startDate}} - {{endDate}}
