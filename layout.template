@@ -1,9 +1,12 @@
 # {{bio.name}}
+## {{bio.location.city}}
+
+{{bio.bio}}
 
 ## Work
 
 {{#work}}
-* ### {{position}}, {{name}}
+* ### {{position}}, {{company}}
   {{startDate}} - {{endDate}}
   {{description}}
   {{#highlights}}
