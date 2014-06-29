@@ -1,7 +1,7 @@
 # {{bio.name}}
 ## {{bio.location.city}}
 
-{{bio.bio}}
+{{bio.summary}}
 
 ## Work
 

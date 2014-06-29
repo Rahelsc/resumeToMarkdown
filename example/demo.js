@@ -8,11 +8,12 @@ var htmlToText = require('html-to-text');
 
 
 resumeToMarkdown(resumeObject, function (markdown, errs) {
-	console.log(marked(markdown),errs);
+	console.log(markdown,errs);
 	var text = htmlToText.fromString(marked(markdown), {
 			wordwrap: 130
-	});
+	});/*
 	fs.writeFileSync('blue.txt', text, 'utf8');
 	fs.writeFileSync('blue.md', markdown, 'utf8');
 	fs.writeFileSync('blue.html', marked(markdown), 'utf8');
+	*/
 });
