@@ -8,7 +8,7 @@
 {{#work}}
 * ### {{position}}, {{company}}
   {{startDate}} - {{endDate}}
-  {{description}}
+  {{summary}}
   {{#highlights}}
   * {{.}}
   {{/highlights}}
