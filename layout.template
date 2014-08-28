@@ -1,7 +1,14 @@
-# {{bio.name}}
-## {{bio.location.city}}
+# {{basics.name}}
+## {{basics.label}}
 
-{{bio.summary}}
+{{basics.summary}}
+
+{{basics.email}}
+{{basics.location.city}}
+{{basics.email.countryCode}}
+{{#basics.profiles}}
+{{..network}}
+{{/basics.profiles}}
 
 ## Work
 
@@ -24,5 +31,6 @@
 
 ## References
 {{#references}}
-> {{reference}} - **{{name}}**
+> {{reference}} 
+> - **{{name}}**
 {{/references}}
