@@ -30,9 +30,7 @@ Phone: {{phone}}
 {{#workHR}}
 ---
 {{/workHR}}
-
 {{/work}}
-
 ## Education
 
 {{#education}}
@@ -41,8 +39,10 @@ Phone: {{phone}}
 
 GPA: {{gpa}}
 
+{{#educationHR}}
+---
+{{/educationHR}}
 {{/education}}
-
 ## References
 {{#references}}
 > {{reference}} 

@@ -23,8 +23,6 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 * Successfully won Techcrunch Disrupt
 * Optimized an algorithm that holds the current world record for Weisman Scores
 
-
-
 ## Education
 
 ### University of Oklahoma - Bachelor, Information Technology
@@ -32,6 +30,11 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 
 GPA: 4.0
 
+---
+### University of Oklahoma - Bachelor, Information Technology
+##### 2011-06-01 - 2014-01-01
+
+GPA: 4.0
 
 ## References
 > It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company. 
