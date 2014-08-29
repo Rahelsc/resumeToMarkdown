@@ -60,6 +60,28 @@ There is no spoon.
 Innovative middle-out compression algorithm that changes the way we store data.
 
 
+## Skills
+
+### Web Development (HTML, CSS, Javascript)
+##### Level: Master
+
+---
+### Compression (Mpeg, MP4, GIF)
+##### Level: Master
+
+
+## Languages
+
+### English
+##### Fluency: Native speaker
+
+
+
+## Interests
+
+### Wildlife (Ferrets, Unicorns)
+
+
 ## References
 > It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company.
 > **Erlich Bachman**

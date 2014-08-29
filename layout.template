@@ -91,6 +91,39 @@ GPA: {{gpa}}
 {{/publicationHR}}
 {{/publications}}
 
+## Skills
+
+{{#skills}}
+### {{name}} ({{#keywords}}{{.}}{{/keywords}})
+##### Level: {{level}}
+
+{{#skillsHR}}
+---
+{{/skillsHR}}
+{{/skills}}
+
+## Languages
+
+{{#languages}}
+### {{language}}
+##### Fluency: {{fluency}}
+
+{{#languagesHR}}
+---
+{{/languagesHR}}
+
+{{/languages}}
+
+## Interests
+
+{{#interests}}
+### {{name}} ({{#keywords}}{{.}}{{/keywords}})
+
+{{#interestsHR}}
+---
+{{/interestsHR}}
+{{/interests}}
+
 ## References
 {{#references}}
 > {{reference}}
