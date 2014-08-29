@@ -29,12 +29,8 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 ##### 2011-06-01 - 2014-01-01
 
 GPA: 4.0
-
----
-### University of Oklahoma - Bachelor, Information Technology
-##### 2011-06-01 - 2014-01-01
-
-GPA: 4.0
+* DB1101 - Basic SQL
+* CS2011 - Java Introduction
 
 ## References
 > It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company. 

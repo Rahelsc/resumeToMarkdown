@@ -38,6 +38,9 @@ Phone: {{phone}}
 ##### {{startDate}} - {{endDate}}
 
 GPA: {{gpa}}
+{{#courses}}
+* {{.}}
+{{/courses}}
 
 {{#educationHR}}
 ---
