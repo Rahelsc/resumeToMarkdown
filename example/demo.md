@@ -4,7 +4,7 @@
 ## Contact
 
 Email: [richard.hendriks@gmail.com](mailto:richard.hendriks@gmail.com)  
-Website: [http://richardhendricks.com](http://richardhendricks.com)  
+Website: http://richardhendricks.com
 Phone: (912) 555-4321
 
 Twitter - [https://twitter.com/neutralthoughts](https://twitter.com/neutralthoughts)  
@@ -23,6 +23,17 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 * Successfully won Techcrunch Disrupt
 * Optimized an algorithm that holds the current world record for Weisman Scores
 
+
+## Volunteer
+
+### Teacher, CoderDojo
+##### 2012-01-01 - 2013-01-01
+
+Global movement of free coding clubs for young people. http://coderdojo.com/
+
+* Awarded &#39;Teacher of the Month&#39;
+
+
 ## Education
 
 ### University of Oklahoma - Bachelor, Information Technology
@@ -34,4 +45,5 @@ GPA: 4.0
 
 ## References
 > It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company. 
-> - **Erlich Bachman**
+> **Erlich Bachman**
+

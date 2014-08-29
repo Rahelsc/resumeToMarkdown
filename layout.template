@@ -5,7 +5,7 @@
 ## Contact
 
 Email: [{{email}}](mailto:{{email}})  
-Website: [{{&website}}]({{&website}})  
+Website: {{&website}}
 Phone: {{phone}}
 
 {{#profiles}}
@@ -31,6 +31,24 @@ Phone: {{phone}}
 ---
 {{/workHR}}
 {{/work}}
+
+## Volunteer
+
+{{#volunteer}}
+### {{position}}, {{organization}}
+##### {{startDate}} - {{endDate}}
+
+{{summary}} {{&website}}
+
+{{#highlights}}
+* {{.}}
+{{/highlights}}
+
+{{#volunteerHR}}
+---
+{{/volunteerHR}}
+{{/volunteer}}
+
 ## Education
 
 {{#education}}
@@ -49,5 +67,6 @@ GPA: {{gpa}}
 ## References
 {{#references}}
 > {{reference}} 
-> - **{{name}}**
+> **{{name}}**
+
 {{/references}}
