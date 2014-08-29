@@ -1,28 +1,132 @@
-# {{bio.name}}
-## {{bio.location.city}}
+{{#basics}}
 
-{{bio.summary}}
+# {{name}}
+
+## Contact
+
+Email: [{{email}}](mailto:{{email}})  
+Website: {{&website}}
+Phone: {{phone}}
+
+{{#profiles}}
+{{network}} - [{{&url}}]({{&url}})  
+{{/profiles}}
+
+## Summary
+
+{{summary}}
+{{/basics}}
 
 ## Work
 
 {{#work}}
-* ### {{position}}, {{company}}
-  {{startDate}} - {{endDate}}
-  {{summary}}
-  {{#highlights}}
-  * {{.}}
-  {{/highlights}}
+### {{position}}, {{company}}
+##### {{startDate}} - {{endDate}}
+{{summary}}
+{{#highlights}}
+* {{.}}
+{{/highlights}}
+
+{{#workHR}}
+---
+{{/workHR}}
 {{/work}}
+
+## Volunteer
+
+{{#volunteer}}
+### {{position}}, {{organization}}
+##### {{startDate}} - {{endDate}}
+
+{{summary}} {{&website}}
+
+{{#highlights}}
+* {{.}}
+{{/highlights}}
+
+{{#volunteerHR}}
+---
+{{/volunteerHR}}
+{{/volunteer}}
 
 ## Education
 
 {{#education}}
-* ### {{name}}
-  {{startDate}} - {{endDate}}
-  {{area}}
+### {{institution}} - {{studyType}}, {{area}}
+##### {{startDate}} - {{endDate}}
+
+GPA: {{gpa}}
+{{#courses}}
+* {{.}}
+{{/courses}}
+
+{{#educationHR}}
+---
+{{/educationHR}}
 {{/education}}
+
+## Awards
+
+{{#awards}}
+### {{awarder}} - {{title}}
+##### {{date}}
+
+{{summary}}
+
+{{#awardHR}}
+---
+{{/awardHR}}
+{{/awards}}
+
+## Publications
+
+{{#publications}}
+### {{publisher}} - {{name}}
+##### {{releaseDate}}
+
+{{summary}}
+
+{{#publicationHR}}
+---
+{{/publicationHR}}
+{{/publications}}
+
+## Skills
+
+{{#skills}}
+### {{name}} ({{#keywords}}{{.}}{{/keywords}})
+##### Level: {{level}}
+
+{{#skillsHR}}
+---
+{{/skillsHR}}
+{{/skills}}
+
+## Languages
+
+{{#languages}}
+### {{language}}
+##### Fluency: {{fluency}}
+
+{{#languagesHR}}
+---
+{{/languagesHR}}
+
+{{/languages}}
+
+## Interests
+
+{{#interests}}
+### {{name}} ({{#keywords}}{{.}}{{/keywords}})
+
+{{#interestsHR}}
+---
+{{/interestsHR}}
+{{/interests}}
 
 ## References
 {{#references}}
-> {{reference}} - **{{name}}**
+> {{reference}}
+> **{{name}}**
+
 {{/references}}
