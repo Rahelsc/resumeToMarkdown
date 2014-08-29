@@ -6,12 +6,14 @@
 ## Contact
 
 Email: [{{email}}](mailto:{{email}})
+
 Phone: {{phone}}
 
 Website: [{{&website}}]({{&website}})
 
 {{#profiles}}
-{{network}} - [{{&url}}]({{&url}})
+{{network}} - [{{&url}}]({{&url}})  
+
 {{/profiles}}
 
 ## Summary
@@ -28,6 +30,7 @@ Website: [{{&website}}]({{&website}})
 {{#highlights}}
 * {{.}}
 {{/highlights}}
+
 {{#workHR}}
 ---
 {{/workHR}}

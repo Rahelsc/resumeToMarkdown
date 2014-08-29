@@ -4,13 +4,15 @@
 
 ## Contact
 
-Email: [richard.hendriks@gmail.com](mailto:richard.hendriks@gmail.com)
+Email: [richard.hendriks@gmail.com](mailto:richard.hendriks@gmail.com)  
 Phone: (912) 555-4321
 
 Website: [http://richardhendricks.com](http://richardhendricks.com)
 
-Twitter - [https://twitter.com/neutralthoughts](https://twitter.com/neutralthoughts)
-SoundCloud - [https://soundcloud.com/dandymusicnl](https://soundcloud.com/dandymusicnl)
+Twitter - [https://twitter.com/neutralthoughts](https://twitter.com/neutralthoughts)  
+
+SoundCloud - [https://soundcloud.com/dandymusicnl](https://soundcloud.com/dandymusicnl)  
+
 
 ## Summary
 
