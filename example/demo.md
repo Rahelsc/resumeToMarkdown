@@ -43,7 +43,24 @@ GPA: 4.0
 * DB1101 - Basic SQL
 * CS2011 - Java Introduction
 
+
+## Awards
+
+### Techcrunch - Digital Compression Pioneer Award
+##### 2014-11-01
+
+There is no spoon.
+
+
+## Publications
+
+### Hooli - Video compression for 3d media
+##### 2014-10-01
+
+Innovative middle-out compression algorithm that changes the way we store data.
+
+
 ## References
-> It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company. 
+> It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company.
 > **Erlich Bachman**
 

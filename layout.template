@@ -64,9 +64,36 @@ GPA: {{gpa}}
 ---
 {{/educationHR}}
 {{/education}}
+
+## Awards
+
+{{#awards}}
+### {{awarder}} - {{title}}
+##### {{date}}
+
+{{summary}}
+
+{{#awardHR}}
+---
+{{/awardHR}}
+{{/awards}}
+
+## Publications
+
+{{#publications}}
+### {{publisher}} - {{name}}
+##### {{releaseDate}}
+
+{{summary}}
+
+{{#publicationHR}}
+---
+{{/publicationHR}}
+{{/publications}}
+
 ## References
 {{#references}}
-> {{reference}} 
+> {{reference}}
 > **{{name}}**
 
 {{/references}}
