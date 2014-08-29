@@ -5,8 +5,8 @@
 ## Contact
 
 Email: [{{email}}](mailto:{{email}})  
-Phone: {{phone}}  
-Website: [{{&website}}]({{&website}})
+Website: [{{&website}}]({{&website}})  
+Phone: {{phone}}
 
 {{#profiles}}
 {{network}} - [{{&url}}]({{&url}})  
@@ -21,7 +21,7 @@ Website: [{{&website}}]({{&website}})
 
 {{#work}}
 ### {{position}}, {{company}}
-#### {{startDate}} - {{endDate}}
+##### {{startDate}} - {{endDate}}
 {{summary}}
 {{#highlights}}
 * {{.}}
@@ -36,9 +36,12 @@ Website: [{{&website}}]({{&website}})
 ## Education
 
 {{#education}}
-* ### {{name}}
-  {{startDate}} - {{endDate}}
-  {{area}}
+### {{institution}}
+#### {{studyType}}, {{area}}
+##### {{startDate}} - {{endDate}}
+
+GPA: {{gpa}}
+
 {{/education}}
 
 ## References
