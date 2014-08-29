@@ -36,8 +36,7 @@ Phone: {{phone}}
 ## Education
 
 {{#education}}
-### {{institution}}
-#### {{studyType}}, {{area}}
+### {{institution}} - {{studyType}}, {{area}}
 ##### {{startDate}} - {{endDate}}
 
 GPA: {{gpa}}

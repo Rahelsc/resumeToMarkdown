@@ -27,8 +27,7 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 
 ## Education
 
-### University of Oklahoma
-#### Bachelor, Information Technology
+### University of Oklahoma - Bachelor, Information Technology
 ##### 2011-06-01 - 2014-01-01
 
 GPA: 4.0
