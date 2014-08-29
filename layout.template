@@ -1,24 +1,37 @@
-# {{basics.name}}
-## {{basics.label}}
+{{#basics}}
 
-{{basics.summary}}
+# {{name}}
+### {{label}}
 
-{{basics.email}}
-{{basics.location.city}}
-{{basics.email.countryCode}}
-{{#basics.profiles}}
-{{..network}}
-{{/basics.profiles}}
+## Contact
+
+Email: [{{email}}](mailto:{{email}})
+Phone: {{phone}}
+
+Website: [{{&website}}]({{&website}})
+
+{{#profiles}}
+{{network}} - [{{&url}}]({{&url}})
+{{/profiles}}
+
+## Summary
+
+{{summary}}
+{{/basics}}
 
 ## Work
 
 {{#work}}
-* ### {{position}}, {{company}}
-  {{startDate}} - {{endDate}}
-  {{summary}}
-  {{#highlights}}
-  * {{.}}
-  {{/highlights}}
+### {{position}}, {{company}}
+#### {{startDate}} - {{endDate}}
+{{summary}}
+{{#highlights}}
+* {{.}}
+{{/highlights}}
+{{#workHR}}
+---
+{{/workHR}}
+
 {{/work}}
 
 ## Education
