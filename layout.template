@@ -1,12 +1,10 @@
 {{#basics}}
 
 # {{name}}
-### {{label}}
 
 ## Contact
 
-Email: [{{email}}](mailto:{{email}})
-
+Email: [{{email}}](mailto:{{email}})  
 Phone: {{phone}}
 
 Website: [{{&website}}]({{&website}})

@@ -1,6 +1,5 @@
 
 # Richard Hendriks
-### Programmer
 
 ## Contact
 
@@ -26,6 +25,7 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 * Build an algorithm for artist to detect if their music was violating copy right infringement laws
 * Successfully won Techcrunch Disrupt
 * Optimized an algorithm that holds the current world record for Weisman Scores
+
 ---
 
 ### CEO&#x2F;President, Pied Piper
@@ -34,6 +34,7 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 * Build an algorithm for artist to detect if their music was violating copy right infringement laws
 * Successfully won Techcrunch Disrupt
 * Optimized an algorithm that holds the current world record for Weisman Scores
+
 
 
 ## Education
