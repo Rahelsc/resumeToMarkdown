@@ -5,13 +5,11 @@
 ## Contact
 
 Email: [{{email}}](mailto:{{email}})  
-Phone: {{phone}}
-
+Phone: {{phone}}  
 Website: [{{&website}}]({{&website}})
 
 {{#profiles}}
 {{network}} - [{{&url}}]({{&url}})  
-
 {{/profiles}}
 
 ## Summary
