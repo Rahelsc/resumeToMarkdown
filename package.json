@@ -1,26 +1,26 @@
 {
-    "name": "resume-to-markdown",
-    "version": "0.0.14",
-    "description": "resumeTomarkdown",
-    "main": "lib/converter.js",
-    "scripts": {
-        "test": "node ./test/index.js | tap-spec"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/jsonresume/resumeToMarkdown.git"
-    },
-    "author": "",
-    "license": "BSD-2-Clause",
-    "bugs": {
-        "url": "https://github.com/jsonresume/resumeToMarkdown/issues"
-    },
-    "dependencies": {
-        "mustache": "~2.0.0",
-        "resume-schema": "latest"
-    },
-    "devDependencies": {
-        "tap-spec": "^0.2.0",
-        "tape": "^2.13.3"
-    }
+  "name": "resume-to-markdown",
+  "version": "0.0.14",
+  "description": "resumeTomarkdown",
+  "main": "lib/converter.js",
+  "scripts": {
+    "test": "node ./test/index.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsonresume/resumeToMarkdown.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jsonresume/resumeToMarkdown/issues"
+  },
+  "dependencies": {
+    "mustache": "~2.0.0",
+    "resume-schema": "latest"
+  },
+  "devDependencies": {
+    "tap-spec": "^0.2.0",
+    "tape": "^2.13.3"
+  }
 }
