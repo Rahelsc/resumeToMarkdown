@@ -15,7 +15,7 @@
     "url": "https://github.com/jsonresume/resumeToMarkdown/issues"
   },
   "dependencies": {
-    "mustache": "~2.3.0",
+    "mustache": "~3.0.2",
     "resume-schema": "latest"
   },
   "devDependencies": {
